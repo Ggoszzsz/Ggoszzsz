@@ -1,0 +1,12 @@
+apt update
+apt upgrade
+install python -y
+install python2 -y
+install git -y
+git clone https://github.com/noob-hackers/ighack
+cd ighack
+bash setup
+
+bash ighack.sh
+auto attack
+manual attack
